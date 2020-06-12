@@ -18,6 +18,7 @@ public class TuesdayWeek {
         
         System.out.println("hello");
          System.out.println("learning push opreations");
+         System.out.println("learning push opreationssss");
         
     }
     
