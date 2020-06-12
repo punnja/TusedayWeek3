@@ -20,7 +20,7 @@ public class TuesdayWeek {
          System.out.println("learning push opreations");
          System.out.println("learning push opreationssss");
         System.out.println("learning fetch opreationssss");
-        
+          System.out.println("learning fetch opreationssss!!!!");
         
     }
     
